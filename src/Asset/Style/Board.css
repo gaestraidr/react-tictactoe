@@ -1,0 +1,4 @@
+.board-row {
+    clear: both;
+    display: inline-table;
+}

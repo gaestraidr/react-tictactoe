@@ -1,0 +1,19 @@
+.Input-text {
+  display: block;
+  margin: 0;
+  padding: 0.8rem 1.6rem;
+  color: #c3c5c9;
+  background-color: #21242b;
+  width: 100%;
+  font-family: inherit;
+  font-size: 2.1rem;
+  font-weight: inherit;
+  line-height: 1.8;
+  border: none;
+  border-radius: 0.4rem;
+  transition: box-shadow 300ms;
+}
+
+.Prompt-desc {
+    padding-bottom: 10px;
+}
